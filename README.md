@@ -1,0 +1,2 @@
+# boredape
+golang curd generator
